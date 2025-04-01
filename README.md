@@ -13,6 +13,8 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Aqui você encontra
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" alt="Lua" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash-Dark" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50">
@@ -25,7 +27,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Aqui você encontra
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="50" height="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash-Dark" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender-Dark" width="50" height="50">
 </div>
 
