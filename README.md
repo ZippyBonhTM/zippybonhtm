@@ -8,15 +8,26 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Aqui você encontra
 
 <div>
   <!-- Substitua "icone" pelos nomes das imagens que você usará -->
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" alt="Lua" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="Redux" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" alt="Electron" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="NextJs" width="50" height="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" alt="Git" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="Visual Studio Code" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash-Dark" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender-Dark" width="50" height="50">
 </div>
 
 ---
