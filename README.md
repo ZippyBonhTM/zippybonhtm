@@ -26,6 +26,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Aqui você encontra
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel.svg" alt="Vercel" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender-Dark" width="50" height="50">
 </div>
