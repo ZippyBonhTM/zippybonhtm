@@ -1,11 +1,8 @@
-# 🖐️ Olá, bem-vindo ao meu perfil!
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77C15&width=435&lines=Welcome+where+codes+can+think...;And+ideas+take+shape+and+soul.)](https://git.io/typing-svg)
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará projetos que refletem meu aprendizado, habilidades e interesses no mundo da programação. Vamos conectar?
-
+### Comecei curioso, continuei teimoso. No início era só vontade de fazer algo funcionar, depois virou obsessão por entender como tudo se conecta. Aprendi sozinho, perguntando, quebrando, refazendo. Hoje, olho pra trás e vejo que cada erro foi uma aula, e cada dúvida, um passo. A jornada? Ainda no início — e é isso que mais me empolga.
 ---
-
-## 🚀 Habilidades & Ferramentas
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007EF7&width=435&lines=Habilidades+%26%26+ferramentas)](https://git.io/typing-svg)
 <div>
   <!-- Substitua "icone" pelos nomes das imagens que você usará -->
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50">
@@ -33,7 +30,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Aqui você encontra
 
 ---
 
-## 📈 Estatísticas do GitHub
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007EF7&width=435&lines=%F0%9F%93%88+Estat%C3%ADsticas+do+GitHub)](https://git.io/typing-svg)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ZippyBonhTM&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
@@ -42,7 +39,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Aqui você encontra
 
 ---
 
-## 🌐 Redes Sociais
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007EF7&width=435&lines=ㅤ%F0%9F%8C%90+Redes+Sociais)](https://git.io/typing-svg)
 
 <div>
   <a href="https://www.linkedin.com/in/joão-gabriel-menzes-santos-b63aaa258/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="50" height="50"></a>
