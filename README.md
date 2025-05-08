@@ -4,7 +4,6 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007EF7&width=435&lines=Habilidades+%26%26+ferramentas)](https://git.io/typing-svg)
 <div>
-  <!-- Substitua "icone" pelos nomes das imagens que você usará -->
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50">
